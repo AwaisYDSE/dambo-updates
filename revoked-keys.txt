@@ -1,2 +1,3 @@
 # DAMBO Revoked License Keys
 # Add one key per line below to block that customer
+DAMBO-1Y-NOHWID-20270319-B3F727EED07D
