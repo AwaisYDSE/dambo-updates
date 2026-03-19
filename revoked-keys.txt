@@ -1,0 +1,2 @@
+# DAMBO Revoked License Keys
+# Add one key per line below to block that customer
